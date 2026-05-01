@@ -1,0 +1,38 @@
+{
+  "android_project": "/mnt/data/ophthalmology_c2_v2_build/OphthalmologyC2ReaderAndroid_v2",
+  "content_repo": "/mnt/data/ophthalmology_c2_v2_build/content_repo",
+  "starter_count": 1280,
+  "full_pack_count": 12100,
+  "domains": {
+    "Core Ophthalmology": 1100,
+    "Cornea & Ocular Surface": 1000,
+    "Glaucoma": 850,
+    "Medical Retina": 950,
+    "Surgical Retina": 550,
+    "Cataract & Refractive Surgery": 750,
+    "Uveitis": 700,
+    "Neuro-Ophthalmology": 750,
+    "Pediatric Ophthalmology & Strabismus": 600,
+    "Oculoplastics & Orbit": 600,
+    "Diagnostics & Imaging": 750,
+    "Ophthalmic Surgery": 550,
+    "Academic Paper English": 600,
+    "Evidence-Based Medicine & Statistics": 900,
+    "Guidelines & Standards": 900,
+    "Abbreviations in Context": 550
+  },
+  "priorities": {
+    "A": 7220,
+    "B": 4880
+  },
+  "levels": {
+    "C2": 5544,
+    "C1": 6246,
+    "B2": 310
+  },
+  "required_fields_ok": true,
+  "duplicates": {
+    "ids": 0,
+    "english": 0
+  }
+}

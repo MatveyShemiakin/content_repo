@@ -1,0 +1,7 @@
+{
+  "latest_version": "2.0.0-alpha",
+  "pack_url": "data/ophthalmology_c2_pack_v2.json",
+  "count": 12100,
+  "created": "2026-04-30",
+  "notes": "Upload this folder to GitHub Pages. In the Android app, paste the HTTPS URL ending in /data/ophthalmology_c2_pack_v2.json."
+}
